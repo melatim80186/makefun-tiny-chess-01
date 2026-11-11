@@ -69,4 +69,5 @@ README.md   (this file)
 - Create `.makefun/owner.json` with the payout wallet, run
   `makefun bundle`, sign, and submit. Needs the make.fun account
   and the AI session transcript.
-- Do NOT submit yet — the parent agent decides submit vs drop.
+- v3 submitted, Elo 871.
+- Gates redone in-session.
